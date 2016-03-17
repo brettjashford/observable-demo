@@ -1,0 +1,532 @@
+[
+  {
+    "price": 70,
+    "symbol": "DIBS",
+    "time": 14
+  },
+  {
+    "price": 69,
+    "symbol": "DIBS",
+    "time": 25
+  },
+  {
+    "price": 65,
+    "symbol": "DIBS",
+    "time": 39
+  },
+  {
+    "price": 74,
+    "symbol": "DIBS",
+    "time": 46
+  },
+  {
+    "price": 60,
+    "symbol": "DIBS",
+    "time": 54
+  },
+  {
+    "price": 57,
+    "symbol": "DIBS",
+    "time": 61
+  },
+  {
+    "price": 54,
+    "symbol": "DIBS",
+    "time": 64
+  },
+  {
+    "price": 74,
+    "symbol": "DIBS",
+    "time": 70
+  },
+  {
+    "price": 60,
+    "symbol": "DIBS",
+    "time": 80
+  },
+  {
+    "price": 63,
+    "symbol": "DIBS",
+    "time": 82
+  },
+  {
+    "price": 57,
+    "symbol": "DIBS",
+    "time": 96
+  },
+  {
+    "price": 64,
+    "symbol": "DIBS",
+    "time": 104
+  },
+  {
+    "price": 70,
+    "symbol": "DIBS",
+    "time": 117
+  },
+  {
+    "price": 57,
+    "symbol": "DIBS",
+    "time": 128
+  },
+  {
+    "price": 61,
+    "symbol": "DIBS",
+    "time": 138
+  },
+  {
+    "price": 61,
+    "symbol": "DIBS",
+    "time": 147
+  },
+  {
+    "price": 59,
+    "symbol": "DIBS",
+    "time": 153
+  },
+  {
+    "price": 53,
+    "symbol": "DIBS",
+    "time": 161
+  },
+  {
+    "price": 70,
+    "symbol": "DIBS",
+    "time": 165
+  },
+  {
+    "price": 70,
+    "symbol": "DIBS",
+    "time": 173
+  },
+  {
+    "price": 55,
+    "symbol": "DIBS",
+    "time": 186
+  },
+  {
+    "price": 60,
+    "symbol": "DIBS",
+    "time": 189
+  },
+  {
+    "price": 63,
+    "symbol": "DIBS",
+    "time": 191
+  },
+  {
+    "price": 85,
+    "symbol": "MSFT",
+    "time": 9
+  },
+  {
+    "price": 79,
+    "symbol": "MSFT",
+    "time": 15
+  },
+  {
+    "price": 70,
+    "symbol": "MSFT",
+    "time": 24
+  },
+  {
+    "price": 78,
+    "symbol": "MSFT",
+    "time": 32
+  },
+  {
+    "price": 80,
+    "symbol": "MSFT",
+    "time": 42
+  },
+  {
+    "price": 76,
+    "symbol": "MSFT",
+    "time": 45
+  },
+  {
+    "price": 92,
+    "symbol": "MSFT",
+    "time": 52
+  },
+  {
+    "price": 74,
+    "symbol": "MSFT",
+    "time": 54
+  },
+  {
+    "price": 77,
+    "symbol": "MSFT",
+    "time": 56
+  },
+  {
+    "price": 94,
+    "symbol": "MSFT",
+    "time": 59
+  },
+  {
+    "price": 81,
+    "symbol": "MSFT",
+    "time": 66
+  },
+  {
+    "price": 75,
+    "symbol": "MSFT",
+    "time": 76
+  },
+  {
+    "price": 80,
+    "symbol": "MSFT",
+    "time": 84
+  },
+  {
+    "price": 80,
+    "symbol": "MSFT",
+    "time": 91
+  },
+  {
+    "price": 78,
+    "symbol": "MSFT",
+    "time": 103
+  },
+  {
+    "price": 79,
+    "symbol": "MSFT",
+    "time": 113
+  },
+  {
+    "price": 77,
+    "symbol": "MSFT",
+    "time": 114
+  },
+  {
+    "price": 73,
+    "symbol": "MSFT",
+    "time": 119
+  },
+  {
+    "price": 91,
+    "symbol": "MSFT",
+    "time": 127
+  },
+  {
+    "price": 78,
+    "symbol": "MSFT",
+    "time": 136
+  },
+  {
+    "price": 93,
+    "symbol": "MSFT",
+    "time": 143
+  },
+  {
+    "price": 78,
+    "symbol": "MSFT",
+    "time": 145
+  },
+  {
+    "price": 76,
+    "symbol": "MSFT",
+    "time": 155
+  },
+  {
+    "price": 82,
+    "symbol": "MSFT",
+    "time": 157
+  },
+  {
+    "price": 85,
+    "symbol": "MSFT",
+    "time": 170
+  },
+  {
+    "price": 76,
+    "symbol": "MSFT",
+    "time": 182
+  },
+  {
+    "price": 83,
+    "symbol": "MSFT",
+    "time": 184
+  },
+  {
+    "price": 81,
+    "symbol": "MSFT",
+    "time": 186
+  },
+  {
+    "price": 92,
+    "symbol": "MSFT",
+    "time": 197
+  },
+  {
+    "price": 601,
+    "symbol": "GOOG",
+    "time": 1
+  },
+  {
+    "price": 627,
+    "symbol": "GOOG",
+    "time": 11
+  },
+  {
+    "price": 624,
+    "symbol": "GOOG",
+    "time": 12
+  },
+  {
+    "price": 607,
+    "symbol": "GOOG",
+    "time": 24
+  },
+  {
+    "price": 608,
+    "symbol": "GOOG",
+    "time": 35
+  },
+  {
+    "price": 637,
+    "symbol": "GOOG",
+    "time": 41
+  },
+  {
+    "price": 634,
+    "symbol": "GOOG",
+    "time": 49
+  },
+  {
+    "price": 620,
+    "symbol": "GOOG",
+    "time": 50
+  },
+  {
+    "price": 600,
+    "symbol": "GOOG",
+    "time": 58
+  },
+  {
+    "price": 635,
+    "symbol": "GOOG",
+    "time": 63
+  },
+  {
+    "price": 628,
+    "symbol": "GOOG",
+    "time": 65
+  },
+  {
+    "price": 634,
+    "symbol": "GOOG",
+    "time": 69
+  },
+  {
+    "price": 633,
+    "symbol": "GOOG",
+    "time": 79
+  },
+  {
+    "price": 634,
+    "symbol": "GOOG",
+    "time": 80
+  },
+  {
+    "price": 630,
+    "symbol": "GOOG",
+    "time": 86
+  },
+  {
+    "price": 614,
+    "symbol": "GOOG",
+    "time": 89
+  },
+  {
+    "price": 604,
+    "symbol": "GOOG",
+    "time": 100
+  },
+  {
+    "price": 601,
+    "symbol": "GOOG",
+    "time": 101
+  },
+  {
+    "price": 624,
+    "symbol": "GOOG",
+    "time": 115
+  },
+  {
+    "price": 636,
+    "symbol": "GOOG",
+    "time": 120
+  },
+  {
+    "price": 610,
+    "symbol": "GOOG",
+    "time": 130
+  },
+  {
+    "price": 612,
+    "symbol": "GOOG",
+    "time": 138
+  },
+  {
+    "price": 633,
+    "symbol": "GOOG",
+    "time": 150
+  },
+  {
+    "price": 614,
+    "symbol": "GOOG",
+    "time": 157
+  },
+  {
+    "price": 632,
+    "symbol": "GOOG",
+    "time": 167
+  },
+  {
+    "price": 617,
+    "symbol": "GOOG",
+    "time": 170
+  },
+  {
+    "price": 628,
+    "symbol": "GOOG",
+    "time": 179
+  },
+  {
+    "price": 629,
+    "symbol": "GOOG",
+    "time": 189
+  },
+  {
+    "price": 618,
+    "symbol": "GOOG",
+    "time": 196
+  },
+  {
+    "price": 107,
+    "symbol": "AAPL",
+    "time": 9
+  },
+  {
+    "price": 108,
+    "symbol": "AAPL",
+    "time": 12
+  },
+  {
+    "price": 118,
+    "symbol": "AAPL",
+    "time": 25
+  },
+  {
+    "price": 115,
+    "symbol": "AAPL",
+    "time": 30
+  },
+  {
+    "price": 115,
+    "symbol": "AAPL",
+    "time": 43
+  },
+  {
+    "price": 114,
+    "symbol": "AAPL",
+    "time": 52
+  },
+  {
+    "price": 108,
+    "symbol": "AAPL",
+    "time": 62
+  },
+  {
+    "price": 116,
+    "symbol": "AAPL",
+    "time": 73
+  },
+  {
+    "price": 115,
+    "symbol": "AAPL",
+    "time": 82
+  },
+  {
+    "price": 113,
+    "symbol": "AAPL",
+    "time": 94
+  },
+  {
+    "price": 114,
+    "symbol": "AAPL",
+    "time": 106
+  },
+  {
+    "price": 106,
+    "symbol": "AAPL",
+    "time": 108
+  },
+  {
+    "price": 116,
+    "symbol": "AAPL",
+    "time": 111
+  },
+  {
+    "price": 106,
+    "symbol": "AAPL",
+    "time": 125
+  },
+  {
+    "price": 107,
+    "symbol": "AAPL",
+    "time": 128
+  },
+  {
+    "price": 110,
+    "symbol": "AAPL",
+    "time": 135
+  },
+  {
+    "price": 116,
+    "symbol": "AAPL",
+    "time": 147
+  },
+  {
+    "price": 113,
+    "symbol": "AAPL",
+    "time": 156
+  },
+  {
+    "price": 112,
+    "symbol": "AAPL",
+    "time": 157
+  },
+  {
+    "price": 110,
+    "symbol": "AAPL",
+    "time": 158
+  },
+  {
+    "price": 110,
+    "symbol": "AAPL",
+    "time": 162
+  },
+  {
+    "price": 110,
+    "symbol": "AAPL",
+    "time": 172
+  },
+  {
+    "price": 115,
+    "symbol": "AAPL",
+    "time": 175
+  },
+  {
+    "price": 108,
+    "symbol": "AAPL",
+    "time": 188
+  },
+  {
+    "price": 106,
+    "symbol": "AAPL",
+    "time": 200
+  }
+]

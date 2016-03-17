@@ -9,6 +9,7 @@
   "author": "brettjashford",
   "license": "ISC",
   "dependencies": {
+    "lodash.filter": "^4.2.1",
     "rx": "^4.1.0"
   }
 }

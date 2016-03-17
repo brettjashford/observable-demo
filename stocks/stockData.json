@@ -1,0 +1,207 @@
+[
+  {
+    "price": 73,
+    "symbol": "DIBS",
+    "time": 12
+  },
+  {
+    "price": 52,
+    "symbol": "DIBS",
+    "time": 25
+  },
+  {
+    "price": 67,
+    "symbol": "DIBS",
+    "time": 34
+  },
+  {
+    "price": 69,
+    "symbol": "DIBS",
+    "time": 35
+  },
+  {
+    "price": 74,
+    "symbol": "DIBS",
+    "time": 49
+  },
+  {
+    "price": 60,
+    "symbol": "DIBS",
+    "time": 62
+  },
+  {
+    "price": 63,
+    "symbol": "DIBS",
+    "time": 68
+  },
+  {
+    "price": 70,
+    "symbol": "DIBS",
+    "time": 75
+  },
+  {
+    "price": 69,
+    "symbol": "DIBS",
+    "time": 76
+  },
+  {
+    "price": 65,
+    "symbol": "DIBS",
+    "time": 82
+  },
+  {
+    "price": 61,
+    "symbol": "DIBS",
+    "time": 87
+  },
+  {
+    "price": 52,
+    "symbol": "DIBS",
+    "time": 89
+  },
+  {
+    "price": 66,
+    "symbol": "DIBS",
+    "time": 91
+  },
+  {
+    "price": 96,
+    "symbol": "MSFT",
+    "time": 10
+  },
+  {
+    "price": 104,
+    "symbol": "MSFT",
+    "time": 12
+  },
+  {
+    "price": 111,
+    "symbol": "MSFT",
+    "time": 13
+  },
+  {
+    "price": 105,
+    "symbol": "MSFT",
+    "time": 17
+  },
+  {
+    "price": 108,
+    "symbol": "MSFT",
+    "time": 31
+  },
+  {
+    "price": 113,
+    "symbol": "MSFT",
+    "time": 41
+  },
+  {
+    "price": 116,
+    "symbol": "MSFT",
+    "time": 54
+  },
+  {
+    "price": 106,
+    "symbol": "MSFT",
+    "time": 62
+  },
+  {
+    "price": 97,
+    "symbol": "MSFT",
+    "time": 73
+  },
+  {
+    "price": 91,
+    "symbol": "MSFT",
+    "time": 77
+  },
+  {
+    "price": 106,
+    "symbol": "MSFT",
+    "time": 85
+  },
+  {
+    "price": 119,
+    "symbol": "MSFT",
+    "time": 90
+  },
+  {
+    "price": 118,
+    "symbol": "MSFT",
+    "time": 94
+  },
+  {
+    "price": 147,
+    "symbol": "APPL",
+    "time": 7
+  },
+  {
+    "price": 144,
+    "symbol": "APPL",
+    "time": 14
+  },
+  {
+    "price": 159,
+    "symbol": "APPL",
+    "time": 19
+  },
+  {
+    "price": 128,
+    "symbol": "APPL",
+    "time": 27
+  },
+  {
+    "price": 129,
+    "symbol": "APPL",
+    "time": 39
+  },
+  {
+    "price": 144,
+    "symbol": "APPL",
+    "time": 50
+  },
+  {
+    "price": 129,
+    "symbol": "APPL",
+    "time": 57
+  },
+  {
+    "price": 141,
+    "symbol": "APPL",
+    "time": 67
+  },
+  {
+    "price": 109,
+    "symbol": "APPL",
+    "time": 71
+  },
+  {
+    "price": 118,
+    "symbol": "APPL",
+    "time": 72
+  },
+  {
+    "price": 122,
+    "symbol": "APPL",
+    "time": 79
+  },
+  {
+    "price": 144,
+    "symbol": "APPL",
+    "time": 81
+  },
+  {
+    "price": 128,
+    "symbol": "APPL",
+    "time": 85
+  },
+  {
+    "price": 130,
+    "symbol": "APPL",
+    "time": 99
+  },
+  {
+    "price": 114,
+    "symbol": "APPL",
+    "time": 100
+  }
+]
