@@ -1,0 +1,56 @@
+.observable {
+    background-image: url(./vadim.png);
+    background-repeat: no-repeat;
+    width: 108px;
+    height: 250px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    cursor: pointer;
+}
+.observable:focus {
+    outline: 0;
+}
+.observable:active {
+    box-shadow: 0 0 72px 4px rgba(255,234,0,1);
+}
+
+.observerContainer {
+    margin: 50px auto 0;
+    width: 500px;
+    position: relative;
+}
+
+.observer {
+    background-image: url(./peepingross.png);
+    background-repeat: no-repeat;
+    width: 182px;
+    height: 368px;
+    display: inline-block;
+    position: absolute;
+}
+.observer:first-child {
+    left: 0
+}
+.observer:last-child {
+    right: 0
+}
+
+.countContainer {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 3px solid black;
+    position: absolute;
+    bottom: -90px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.count {
+    position: absolute;
+    top: 23px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 25px;
+}

@@ -1,17 +1,16 @@
-var button = document.querySelector('button');
-var output = document.querySelector('h2');
+var observable = document.querySelector('.observable');
+var observer = document.querySelector('.observerSingle');
 
-// stream of click events
-var clickStream = Rx.Observable.fromEvent(button, 'click');
+var clickStream = Rx.Observable.fromEvent(observable, 'click');
 
 clickStream.subscribe(function (event) {
-    output.textContent = 'click';
+    observer.textContent = 'click';
 });
 
 clickStream
     .throttle(1000)
     .subscribe(function (event) {
-        output.textContent = '';
+        observer.textContent = '';
     });
 
 
